@@ -32,3 +32,13 @@
 # To convert a float to an integer:
 13.0.to_i #= 13
 13.9.to_i #= 13
+
+# Some Useful Number Methods
+
+#even?
+6.even? #=> true
+7.even? #=> false
+
+#odd?
+6.odd? #=> false
+7.odd? #=> true
