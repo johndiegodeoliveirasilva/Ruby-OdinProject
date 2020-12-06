@@ -19,3 +19,9 @@
 "hello"[0, 4]   #=> "hell"
 
 "hello"[-1]     #=> "o"
+
+# Interpolation
+name = "Odin"
+
+puts "Hello, #{name}" #=> "Hello, Odin"
+puts 'Hello, #{name}' #=> "Hello, #{name}"
